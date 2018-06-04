@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "916027208401",
+    "firebase_url": "https://service-76c78.firebaseio.com",
+    "project_id": "service-76c78",
+    "storage_bucket": "service-76c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916027208401:android:19e1d43dd3dd4929",
+        "android_client_info": {
+          "package_name": "lk.rathnamotors.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916027208401-63itt3pu80m3e7n27i7m01ocp76e095b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.rathnamotors.service",
+            "certificate_hash": "e5c53c190b043b2a6ffbbf001b253a858612c6c7"
+          }
+        },
+        {
+          "client_id": "916027208401-hd50btmhgpfvfb4ko8fdsjvrfqjqkndn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "916027208401-hd50btmhgpfvfb4ko8fdsjvrfqjqkndn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ05E_k6ELxl_8uFqghNZbHpziRxIfrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916027208401-hd50btmhgpfvfb4ko8fdsjvrfqjqkndn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
